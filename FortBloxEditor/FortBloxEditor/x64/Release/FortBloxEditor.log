@@ -1,0 +1,10 @@
+﻿cl : Command line warning D9002: ignoring unknown option '-Y/'
+  FortBloxEditor.cpp
+c:\users\zombiedance\desktop\fortblox\fortbloxeditor\fortbloxeditor\fortbloxeditor.cpp(44): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\zombiedance\desktop\fortblox\fortbloxeditor\fortbloxeditor\fortbloxeditor.cpp(46): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  0 of 15 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  FortBloxEditor.vcxproj -> C:\Users\Zombiedance\Desktop\fortblox\FortBloxEditor\x64\Release\FortBloxEditor.exe
