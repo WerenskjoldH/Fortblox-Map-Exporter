@@ -7,3 +7,5 @@
 *.obj
 *.db
 *.tlog
+*.ipch
+*.opendb
